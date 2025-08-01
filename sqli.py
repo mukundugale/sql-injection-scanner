@@ -1,6 +1,6 @@
 import requests
 
-url ="https://0a9b00f804728027810253e7003800d2.web-security-academy.net/filter?category=Gifts"
+url =""
 
 payloads =[
     "' OR '1'='1",
